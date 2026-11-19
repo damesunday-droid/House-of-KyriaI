@@ -1,2 +1,2 @@
-# House-of-KyriaI
+# House-of-Kyria
 Intelligent Ai beauty app
